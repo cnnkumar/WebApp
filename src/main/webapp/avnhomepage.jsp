@@ -6,7 +6,7 @@
 <title>avnhomepage</title>
 <style>
 body{
-background-color: #f9f8f7;
+background-color: #C19B76;
 }
 #home
 {
